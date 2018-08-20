@@ -2,7 +2,7 @@
 
 Import my librairies into your projects easily in your `pom.xml`
 
-```Java
+```XML
 <repositories>
 ...
     <repository>
