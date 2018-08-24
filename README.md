@@ -4,7 +4,7 @@ Import my librairies into your projects easily in your `pom.xml`
 
 ```XML
 <repositories>
-...
+    ...
     <repository>
         <id>fr.klemek</id>
         <url>https://github.com/klemek/mvn-repo/raw/master</url>
@@ -12,7 +12,7 @@ Import my librairies into your projects easily in your `pom.xml`
 </repositories>
 
 <dependencies>
-...
+    ...
     <dependency>
         <groupId>fr.klemek</groupId>
         <artifactId>betterlists</artifactId>
