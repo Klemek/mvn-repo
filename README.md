@@ -20,6 +20,11 @@ Import my librairies into your projects easily in your `pom.xml`
     </dependency>
     <dependency>
         <groupId>fr.klemek</groupId>
+        <artifactId>simple-logger</artifactId>
+        <version>1.1</version>
+    </dependency>
+    <dependency>
+        <groupId>fr.klemek</groupId>
         <artifactId>french-sentences-gen</artifactId>
         <version>1.0</version>
     </dependency>
