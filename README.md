@@ -21,7 +21,7 @@ Import my librairies into your projects easily in your `pom.xml`
     <dependency>
         <groupId>fr.klemek</groupId>
         <artifactId>simple-logger</artifactId>
-        <version>1.2</version>
+        <version>1.2.1</version>
     </dependency>
     <dependency>
         <groupId>fr.klemek</groupId>
